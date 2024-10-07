@@ -1,6 +1,6 @@
 Base - 5 Number System
-Decimal Values                   ( Base - 5)
-0
+|Decimal Values                   ( Base - 5)
+|0
 1	                                   1
 2	                                   2
 3	                                   3
